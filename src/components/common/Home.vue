@@ -15,5 +15,5 @@
         components:{
             vHead, vSidebar
         }  
-    }
+    } 
 </script>
