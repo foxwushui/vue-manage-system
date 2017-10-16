@@ -3,7 +3,7 @@
         <v-head></v-head>
         <v-sidebar></v-sidebar>
         <div class="content">
-            <transition name="move" mode="out-in"><router-view></router-view>123</transition>
+            <transition name="move" mode="out-in"><router-view></router-view>dasdads</transition>
         </div>
     </div>
 </template>
